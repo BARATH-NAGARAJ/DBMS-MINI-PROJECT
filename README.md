@@ -11,3 +11,4 @@ You can Check In, Check Out room status, update customer and employee details in
 HOW TO RUN?
 
 HMS.ipynb file
+"# DBMS-MINI-PROJECT" 
